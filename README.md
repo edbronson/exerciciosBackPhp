@@ -1,2 +1,3 @@
-# exerciciosBackPhp
+# CalculadoraPHP
+
 Atividade da aula de PHP Beck-End (calculadora)
