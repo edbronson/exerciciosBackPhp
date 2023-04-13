@@ -1,3 +1,3 @@
 # CalculadoraPHP
 
-Atividade da aula de PHP Beck-End (calculadora)
+Calculadora feito em PHP e Bootstrap
